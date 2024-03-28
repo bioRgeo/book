@@ -1,8 +1,8 @@
-book_filename: "main"
+book_filename: "book"
 output_dir: docs
 delete_merged_file: true
-edit: https://github.com/bioRgeo/book/edit/master/%s
-view: https://github.com/bioRgeo/book/blob/master/%s
+edit: https://github.com/bioRgeo/book/edit/main/%s
+view: https://github.com/bioRgeo/book/blob/main/%s
 language:
   ui:
     chapter_name: "Chapter "
