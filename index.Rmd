@@ -1,0 +1,23 @@
+---
+title: "Comparison of Bioregionalisation Methods"
+author: "Pierre Denelle, Maxime Lenormand & Boris Leroy"
+date: "`r Sys.Date()`"
+github-repo: "bioRgeo/book"
+url: 'https://github.com/bioRgeo/book'
+description: "Comparison of Bioregionalisation Methods"
+apple-touch-icon: "assets/pimp/apple-touch-icon.png"
+apple-touch-icon-size: 120
+favicon: "assets/pimp/favicon.ico"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+# Here you load all your project's packages
+library(ggplot2)
+library(dplyr)
+```
+
+# Context {.unnumbered}
+
+

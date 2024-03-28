@@ -1,0 +1,21 @@
+bookdown::gitbook:
+  css: assets/style.css
+  includes:
+    before_body: assets/pimp/banner.html
+    after_body: assets/pimp/footer.html
+  highlight: tango
+  config:
+    edit:
+      link: https://github.com/bioRgeo/book/edit/master/%s
+      text: "Edit"
+    toc:
+      collapse: section
+      before: |
+        <li class="toc-logo"><a href="./"><img src="assets/pimp/logo.png" width="100"></a></li>
+      after: |
+        <li><a href="https://bookdown.org/" target="blank">Published with bookdown</a></li>
+    download: ["rmd"]
+    info: no  
+    sharing: no
+    fontsettings: no
+  
